@@ -27,3 +27,26 @@ Friends
 Fools
 
 vapor - framework que funciona bien en linux
+
+-------------------
+Modelo de negocio ->
+Plan de negocio -> periodos para ejercer
+
+ingreso activo -> vender un producto
+ingreso pasivo -> rentar un servicio
+
+-------------------
+Colection view
+
+-----------------
+aplicacion "Due"
+
+UI (user Interface)
+  Colores
+  Imagenes
+  Tamalños de letras
+  Tipos de letras
+  Textos
+
+UX (user xperience)
+  Utilización
